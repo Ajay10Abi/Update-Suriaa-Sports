@@ -9,7 +9,7 @@
 {
   height: 100%;
   width: 100%;
-  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(images/bg2.jpeg);
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(Images/bg2.jpeg);
   background-position:center;
   background-size:cover;
   position: absolute;
@@ -18,7 +18,7 @@ nav{
   position: fixed;
   z-index: 99;
   width: 100%;
-  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(images/bg2.jpeg,no repeat);
+  background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)),url(Images/bg2.jpeg,no repeat);
 }
 nav .wrapper{
   position: relative;
